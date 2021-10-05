@@ -10,6 +10,8 @@ CSU 日四技資工四A 人工智慧
 #### 簡報
 * [Introduction](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CSUAI_class.pptx)
 ##
+#### NN 神經網路
+* ![NN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/NN.JPG)
 #### Notebooks
 * [Lab1: Tensorflow 2.x](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab1.ipynb)
 * [Lab2: 實驗一：房價預測模型](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab2_1b_1115.ipynb)
