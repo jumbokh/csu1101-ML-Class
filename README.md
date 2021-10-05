@@ -15,3 +15,6 @@ CSU 日四技資工四A 人工智慧
 * [Lab2: 實驗一：房價預測模型](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab2_1b_1115.ipynb)
 * [Lab3: 二元分類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab3_1b.ipynb)
 * [Lab4: CIFAR10](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab4.ipynb)
+##
+#### NN相關 Notebooks
+* [NN Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebook)
