@@ -20,3 +20,4 @@ CSU 日四技資工四A 人工智慧
 ##
 #### NN相關 Notebooks
 * [NN Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebook)
+* [share](http://gg.gg/w5a9f)
