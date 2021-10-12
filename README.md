@@ -15,6 +15,7 @@ CSU 日四技資工四A 人工智慧
 * ![NN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/NN.JPG)
 #### Notebooks [Colab](https://colab.research.google.com/)
 ##### 線性回歸
+* [全華 Simple Regression Ch4 範例](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Ch4_SimpleRegression.ipynb)
 * [深度學習 最佳入門邁向AI專題實戰 3_1~3_4](https://github.com/mc6666/DL_Book)
 * [Kaggle: House Sale in King Country, USA](https://www.kaggle.com/harlfoxem/housesalesprediction)
 * [kaggle: Linear Regression Tutorial](https://www.kaggle.com/jumbokh/linear-regression-tutorial/edit)
