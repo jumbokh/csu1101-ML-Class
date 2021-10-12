@@ -13,7 +13,8 @@ CSU 日四技資工四A 人工智慧
 #### NN 神經網路
 * ![NN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/NN.JPG)
 #### Notebooks [Colab](https://colab.research.google.com/)
-##### 線性關係
+##### 線性回歸
+* [Kaggle: House Sale in King Country, USA](https://www.kaggle.com/harlfoxem/housesalesprediction)
 * [kaggle: Linear Regression Tutorial](https://www.kaggle.com/jumbokh/linear-regression-tutorial/edit)
 * [kaggle: Linear Regression House price prediction](https://www.kaggle.com/jumbokh/linear-regression-house-price-prediction/edit)
 * [kaggle: Car price prediction](https://www.kaggle.com/jumbokh/car-price-prediction-linear-regression-rfe/edit)
