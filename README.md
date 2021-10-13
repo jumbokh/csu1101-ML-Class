@@ -32,3 +32,4 @@ CSU 日四技資工四A 人工智慧
 * [NN Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebook)
 * [share](http://gg.gg/w5a9f)
 * [Youtube](https://www.youtube.com/playlist?list=PLQT_F4pgkvVcWnLIIQmw0bWNoXsWeFFd1)
+* [蔡炎龍老師 Deep Learning Basics](https://github.com/yenlung/Deep-Learning-Basics)
