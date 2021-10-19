@@ -10,6 +10,7 @@ CSU 日四技資工四A 人工智慧
 #### 簡報
 * [Introduction](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CSUAI_class.pptx)
 * [第二章 回歸問題](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH02.ppt)
+* [第三章 二元分類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH03.ppt)
 ##
 #### NN 神經網路
 * ![NN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/NN.JPG)
