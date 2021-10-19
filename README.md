@@ -22,7 +22,7 @@ CSU 日四技資工四A 人工智慧
 * [kaggle: Linear Regression Tutorial](https://www.kaggle.com/jumbokh/linear-regression-tutorial/edit)
 * [kaggle: Linear Regression House price prediction](https://www.kaggle.com/jumbokh/linear-regression-house-price-prediction/edit)
 * [kaggle: Car price prediction](https://www.kaggle.com/jumbokh/car-price-prediction-linear-regression-rfe/edit)
-* [女神書 5_6 專題 線性回歸](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
+* [5_6 專題 線性回歸](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
 ##
 #### 二元分類
 * [imdb 1](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/imdb_ana_v2-1.ipynb)
