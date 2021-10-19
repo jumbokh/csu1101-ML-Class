@@ -49,3 +49,5 @@ CSU 日四技資工四A 人工智慧
 * [可视化理解Binary Cross-Entropy](https://zhuanlan.zhihu.com/p/89391305)
 * [Scikit-Learn 教學：Python 與機器學習](https://www.datacamp.com/community/tutorials/scikit-learn-python)
 * [hands-on-DL](https://github.com/twcmchang/hands-on-DL)
+#### 參考
+* [手把手教你深度學習](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%AF%A6%E5%8B%99_%E4%B8%AD%E7%A0%94%E9%99%A2%E5%BC%B5%E9%88%9E%E9%96%94.pdf)
