@@ -48,3 +48,4 @@ CSU 日四技資工四A 人工智慧
 * [蔡炎龍老師 Deep Learning Basics](https://github.com/yenlung/Deep-Learning-Basics)
 * [可视化理解Binary Cross-Entropy](https://zhuanlan.zhihu.com/p/89391305)
 * [Scikit-Learn 教學：Python 與機器學習](https://www.datacamp.com/community/tutorials/scikit-learn-python)
+* [hands-on-DL](https://github.com/twcmchang/hands-on-DL)
