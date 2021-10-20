@@ -34,6 +34,8 @@ CSU 日四技資工四A 人工智慧
 * [Kaggle: Titanic](https://www.kaggle.com/c/titanic/notebooks?competitionId=3136&sortBy=voteCount)
 * [Logistic Regression](https://github.com/jumbokh/ML-Class/blob/main/notebooks/4_1_Logistic_Regression.ipynb)
 * [Pima Indian Diabetes - Binary classification](https://www.kaggle.com/kuntahsieh/pima-indian-diabetes-binary-classification/edit)
+   * [Notebook](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/pima-indian-diabetes-binary-classification.ipynb)
+   * [data](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/diabetes.csv)
 #### 分類
 * [kaggle: MNIST SciKit-Learn Tutorial](https://www.kaggle.com/gainknowledge/mnist-scikit-learn-tutorial)
 * [Day1 一天一篇機器學習 in python using Scikit-Learn and TensorFlow 系列](https://blog.chairco.me/posts/2017/12/day1_machine_learning_in_python_using_scikit-learn_and_tensorflow.html)
