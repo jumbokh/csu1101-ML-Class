@@ -28,6 +28,7 @@ CSU 日四技資工四A 人工智慧
 * [Chapter 3 – Classification](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/03_classification.ipynb)
 * [imdb 1](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/imdb_ana_v2-1.ipynb)
 * [imdb 2](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/imdb_sentiment_analysis_keras_and_tensorflow.ipynb)
+* [kaggle: imdb](https://www.kaggle.com/kuntahsieh/imdb-sentiment-analysis-keras-and-tensorflow/)
 * [3.4 电影评论分类：二分类问题](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/3_4_%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E5%88%86%E7%B1%BB%EF%BC%9A%E4%BA%8C%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98.ipynb)
 * [Kaggle: Binary Classification](https://www.kaggle.com/ryanholbrook/binary-classification)
 * [Kaggle: Titanic](https://www.kaggle.com/c/titanic/notebooks?competitionId=3136&sortBy=voteCount)
