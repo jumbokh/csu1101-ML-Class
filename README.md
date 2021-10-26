@@ -48,6 +48,7 @@ CSU 日四技資工四A 人工智慧
 * [Lab3: 二元分類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab3_1b.ipynb)
 * [Lab4: CIFAR10](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab4.ipynb)
 * [Lab5: Batch Normalization](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab5.ipynb)
+    * [常態分佈](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Check_BP_GradientVanish.ipynb)
 ##
 #### NN相關 Notebooks
 * [NN Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebook)
