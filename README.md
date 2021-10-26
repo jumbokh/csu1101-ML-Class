@@ -12,6 +12,7 @@ CSU 日四技資工四A 人工智慧
 * [第二章 回歸問題](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH02.ppt)
 * [第三章 二元分類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH03.ppt)
 * [第四章 卷積神經網路](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH04.ppt)
+* [第五章 神經網路訓練技巧](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH05.ppt)
 ##
 #### NN 神經網路
 * ![NN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/NN.JPG)
@@ -45,6 +46,7 @@ CSU 日四技資工四A 人工智慧
 * [Lab2: 實驗一：房價預測模型](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab2_1b_1115.ipynb)
 * [Lab3: 二元分類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab3_1b.ipynb)
 * [Lab4: CIFAR10](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab4.ipynb)
+* [Lab5: Batch Normalization](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab5.ipynb)
 ##
 #### NN相關 Notebooks
 * [NN Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebook)
