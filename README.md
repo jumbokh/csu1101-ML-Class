@@ -61,6 +61,7 @@ CSU 日四技資工四A 人工智慧
 * [Tensorflow Dataset](https://colab.research.google.com/github/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab4.ipynb)
 * [使用程式計算卷積](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/06_01_convolutions.ipynb)
 * [MNIST 模型強化](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/06_02_MNIST_CNN.ipynb)
+* [cifar10 CNN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Cifar10_CNN.ipynb)
 * [cifar10 辨識](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/06_03_Cifar_gray_CNN.ipynb)
 * [Deep Computer Vision Using Convolutional Neural Networks](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/14_deep_computer_vision_with_cnns.ipynb)
 #### 參考
