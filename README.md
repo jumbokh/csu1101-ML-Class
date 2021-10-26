@@ -68,3 +68,4 @@ CSU 日四技資工四A 人工智慧
 * [十三分鐘略懂 AI 技術：機器學習、深度學習技術原理及延伸應用](https://www.youtube.com/watch?v=UGdG4WpluJ8)
 * [Linear Algebra Cheat Sheet for Machine Learning](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/?fbclid=IwAR2DCNzEFP8HFJGHrQSHJWZXyy2TW5tWHI9XmrbR8jmxsHJAOn_ck_NMeD0)
 * [How to Develop a CNN From Scratch for CIFAR-10 Photo Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/)
+* [10 Standard Datasets for Practicing Applied Machine Learning](https://machinelearningmastery.com/standard-machine-learning-datasets/?fbclid=IwAR1kmXwE-KNt8wIhrF7OqlYXZO4bOcUaopJ7RYZJ87hOMBc61f95Q7ww_KE)
