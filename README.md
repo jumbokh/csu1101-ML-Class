@@ -67,6 +67,11 @@ CSU 日四技資工四A 人工智慧
 * [update cifar10 CNN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/update_Cifar10_CNN.ipynb)
 * [cifar10 辨識](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/06_03_Cifar_gray_CNN.ipynb)
 * [Deep Computer Vision Using Convolutional Neural Networks](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/14_deep_computer_vision_with_cnns.ipynb)
+#### 女神書 深度學習必讀
+* [5-1 CNN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/5.1-introduction-to-convnets.ipynb)
+* [5-2 CNN Small dataset](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/5.2-using-convnets-with-small-datasets.ipynb)
+* [5-3 CNN Using pre-train model](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/5.3-using-a-pretrained-convnet.ipynb)
+* [5-4 CNN Visualizing what convnets learn](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/5.4-visualizing-what-convnets-learn.ipynb)
 #### 參考
 * [手把手教你深度學習](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%AF%A6%E5%8B%99_%E4%B8%AD%E7%A0%94%E9%99%A2%E5%BC%B5%E9%88%9E%E9%96%94.pdf)
 * [十三分鐘略懂 AI 技術：機器學習、深度學習技術原理及延伸應用](https://www.youtube.com/watch?v=UGdG4WpluJ8)
