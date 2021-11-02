@@ -50,6 +50,7 @@ CSU 日四技資工四A 人工智慧
 * [Kaggle: Pima Indians Diabetes - EDA & Prediction (0.906)](https://www.kaggle.com/jumbokh/pima-indians-diabetes-eda-prediction-0-906)
 * [Kaggle: Client segmentation (k-means tutorial)](https://www.kaggle.com/luisfredgs/client-segmentation)
 * [K-Means Clustering for Imagery Analysis](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/2020-10-26-01-K-Means-Clustering-for-Imagery-Analysis.ipynb)
+* ![conclusion](https://github.com/jumbokh/csu1101-ML-Class/blob/main/references/kmeans.JPG)
 ##### 博碩 書本實驗
 * [Lab1: Tensorflow 2.x](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab1.ipynb)
 * [Lab2: 實驗一：房價預測模型](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab2_1b_1115.ipynb)
