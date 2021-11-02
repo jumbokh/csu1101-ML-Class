@@ -44,6 +44,7 @@ CSU 日四技資工四A 人工智慧
 * [kaggle: MNIST SciKit-Learn Tutorial](https://www.kaggle.com/gainknowledge/mnist-scikit-learn-tutorial)
 * [Day1 一天一篇機器學習 in python using Scikit-Learn and TensorFlow 系列](https://blog.chairco.me/posts/2017/12/day1_machine_learning_in_python_using_scikit-learn_and_tensorflow.html)
 #### 分群 Clustering [K-Means算法](https://github.com/jumbokh/csu1101-ML-Class/blob/main/K-Means.md)
+* [分群/聚類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/%E8%81%9A%E9%A1%9E%E6%96%B9%E6%B3%95.pdf)
 * [CH19 K-Means Iris](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Ch19_kmeans.ipynb)
 * [Ch14聚類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/chapter14.ipynb)
 * [5.11 K-Means](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
