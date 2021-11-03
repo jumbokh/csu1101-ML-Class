@@ -13,6 +13,7 @@ CSU 日四技資工四A 人工智慧
 * [第三章 二元分類](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH03.ppt)
 * [第四章 卷積神經網路](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH04.ppt)
 * [第五章 神經網路訓練技巧](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/CH05.ppt)
+* [聚類簡報](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/%E8%81%9A%E9%A1%9E%E7%B0%A1%E5%A0%B1.pdf)
 ##
 #### NN 神經網路
 * ![NN](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/NN.JPG)
