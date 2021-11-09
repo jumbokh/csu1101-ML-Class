@@ -68,6 +68,7 @@ q=(n-s)/n
 Entropy=-p*int(log(p,2))-q*int(log(q,2))
 print(Entropy)
 </pre>
+* [Chapter 6 – Decision Trees](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/06_decision_trees.ipynb)
 ##### 博碩 書本實驗
 * [Lab1: Tensorflow 2.x](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab1.ipynb)
 * [Lab2: 實驗一：房價預測模型](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab2_1b_1115.ipynb)
