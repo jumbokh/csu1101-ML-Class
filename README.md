@@ -61,9 +61,10 @@ CSU 日四技資工四A 人工智慧
 * Entropy:
 <pre>
 from math import log
-n=10
-p=2
-q=n-p
+n=30
+s=15
+p=s/n
+q=(n-s)/n
 Entropy=-p*int(log(p,2))-q*int(log(q,2))
 print(Entropy)
 </pre>
