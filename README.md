@@ -83,6 +83,7 @@ print(Entropy)
 * [Kaggle notebooks, most voted](https://github.com/jumbokh/ML-Class/blob/main/notebooks/titanic-data-science-solutions.ipynb)
 #### Refers:
 * [決策樹](https://github.com/jumbokh/ML-Class/blob/main/docs/%E6%B1%BA%E7%AD%96%E6%A8%B9.pdf) (數據科學入門 第十七章, Joel Grus 著, 高蓉 韓波譯, 歐萊里)
+* [Scikit-Learn Document: Forests of randomized trees](https://scikit-learn.org/stable/modules/ensemble.html#forest)
 ##
 ##### 博碩 書本實驗
 * [Lab1: Tensorflow 2.x](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab1.ipynb)
