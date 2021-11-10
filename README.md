@@ -88,6 +88,7 @@ print(Entropy)
 * [Scikit-Learn Document: Forests of randomized trees](https://scikit-learn.org/stable/modules/ensemble.html#forest)
 * ![Entropy](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/Entropy.JPG) (Refers:https://medium.com/@renimatsa/%E5%88%86%E9%A1%9E%E9%81%A9%E7%94%A8%E5%B1%AC%E6%80%A7%E7%9A%84%E9%81%B8%E5%AE%9A-information-gain-135f7440576e)
 * [基尼系數 (PDF). 台灣大學. 2014年1月21日](http://nccur.lib.nccu.edu.tw/bitstream/140.119/34713/7/501607.pdf)
+* ![Gini係數](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/GiniIndex.JPG)
 ##
 ##### 博碩 書本實驗
 * [Lab1: Tensorflow 2.x](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab1.ipynb)
