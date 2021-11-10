@@ -84,6 +84,7 @@ Gains: 0.545
 * [一文看懂決策樹](https://www.chainnews.com/zh-hant/articles/640320083565.htm)
 * [決策樹模型介紹](https://pyecontech.com/2019/07/15/decision_tree/)
     * [Notebook](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Decision_Tree.ipynb)
+#### HW: 以挑選球員範例, 計算性別及班級分割 Entropy 及 Gini index,選出分割方式 
 #### Youtube:
 * [ML Lecture 22: Ensemble](https://www.youtube.com/watch?v=tH9FH1DH5n0)
 * [Decision Tree :: Decision Tree Hypothesis @ Machine Learning Techniques](https://www.youtube.com/watch?v=dAqPpAXnMJ4)
