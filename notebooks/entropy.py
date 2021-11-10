@@ -1,6 +1,6 @@
 from math import log
-n=20
-s=13
+n=30
+s=15
 p=s/n
 q=(n-s)/n
 print(p,q)
