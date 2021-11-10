@@ -86,6 +86,7 @@ print(Entropy)
 #### Refers:
 * [決策樹](https://github.com/jumbokh/ML-Class/blob/main/docs/%E6%B1%BA%E7%AD%96%E6%A8%B9.pdf) (數據科學入門 第十七章, Joel Grus 著, 高蓉 韓波譯, 歐萊里)
 * [Scikit-Learn Document: Forests of randomized trees](https://scikit-learn.org/stable/modules/ensemble.html#forest)
+* ![Entropy](https://github.com/jumbokh/csu1101-ML-Class/blob/main/docs/Entropy.JPG) (Refers:https://medium.com/@renimatsa/%E5%88%86%E9%A1%9E%E9%81%A9%E7%94%A8%E5%B1%AC%E6%80%A7%E7%9A%84%E9%81%B8%E5%AE%9A-information-gain-135f7440576e)
 ##
 ##### 博碩 書本實驗
 * [Lab1: Tensorflow 2.x](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/Lab1.ipynb)
