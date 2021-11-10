@@ -61,12 +61,20 @@ CSU 日四技資工四A 人工智慧
 * Entropy:
 <pre>
 from math import log
-n=30
-s=15
+n=20
+s=13
 p=s/n
 q=(n-s)/n
+print(p,q)
 Entropy=-p*int(log(p,2))-q*int(log(q,2))
-print(Entropy)
+print('Entropy:',Entropy)
+Gains=p**2+q**2
+print('Gains:',Gains)
+#------------------------
+#output:
+0.65 0.35
+Entropy: 0.35
+Gains: 0.545
 </pre>
 * [ch9 Decision Tree](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/ch9_DecisionTree.ipynb) (,Titanic problem)
 * [05.08 Decision Trees and Random Forests](https://github.com/jumbokh/csu1101-ML-Class/blob/main/notebooks/05.08-Random-Forests.ipynb)
